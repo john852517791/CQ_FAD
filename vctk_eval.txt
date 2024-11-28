@@ -1,0 +1,5 @@
+/data2/publicDatasets/vctk/VCTK-Corpus/wav48/p276/p276_141.wav
+/data2/publicDatasets/vctk/VCTK-Corpus/wav48/p276/p276_190.wav
+/data2/publicDatasets/vctk/VCTK-Corpus/wav48/p276/p276_011.wav
+/data2/publicDatasets/vctk/VCTK-Corpus/wav48/p276/p276_293.wav
+/data2/publicDatasets/vctk/VCTK-Corpus/wav48/p276/p276_161.wav

@@ -1,0 +1,10 @@
+a_nohup
+a_train_log
+book
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+*/*/*/*/__pycache__
+*/*/*/*/*/__pycache__
+z_ref
+z_train
