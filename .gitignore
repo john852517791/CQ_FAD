@@ -8,3 +8,4 @@ book
 */*/*/*/*/__pycache__
 z_ref
 z_train
+exp*
